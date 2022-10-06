@@ -1,21 +1,27 @@
+////
+////  ContentView.swift
+////  cb
+////
+////  Created by Luuk Meier on 30/09/2022.
+////
 //
-//  ContentView.swift
-//  cb
+//import SwiftUI
 //
-//  Created by Luuk Meier on 30/09/2022.
+////          open cb://vs-code/Users/luukmeier/Documents/Repos/_js/haptic-interface
 //
-
-import SwiftUI
-
-struct ContentView: View {
-    var body: some View {
-        Text("Hello, world!")
-            .padding()
-    }
-}
-
-struct ContentView_Previews: PreviewProvider {
-    static var previews: some View {
-        ContentView()
-    }
-}
+//struct ContentView: View {
+//    @State var isUrl = false;
+//    
+//    var body: some View {
+//        
+//    }
+//}
+//
+//struct ContentView_Previews: PreviewProvider {
+//    static var previews: some View {
+//        ContentView()
+//    }
+//}
+//
+//
+//
